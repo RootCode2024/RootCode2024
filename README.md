@@ -18,7 +18,6 @@
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about anything and everything around PHP & JS.
-- 👓 And I'm a photochromic lens enthusiast, see my collections [here](https://codewonders.dev/lens)
 - 💬 Ask me about PHP, CSS, LARAVEL, VUE JS and anything about Roller-Blading 🎺
 - ⚡ Fun fact: I dance Afro NTCHAM 🥁.
 
