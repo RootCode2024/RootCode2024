@@ -18,7 +18,7 @@
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about anything and everything around PHP & JS.
-- 💬 Ask me about PHP, CSS, LARAVEL, VUE JS and anything about Roller-Blading 🎺
+- 💬 Ask me about PHP, CSS, LARAVEL, VUE JS, NUXT JS, NEST JS and anything about Roller-Blading 🎺
 - ⚡ Fun fact: I dance Afro NTCHAM 🥁.
 
 <!--
