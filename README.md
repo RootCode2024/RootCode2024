@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RootCode2024/RootCode2024/edit/main/capture.PNG" width="100%" />  
+  <img src="https://github.com/RootCode2024/RootCode2024/blob/main/Capture.PNG?raw=true" width="100%" />  
   <h1 align="center"><a href="https://chrislainavocegan.site">I'm Chrislain</a></h1>
   <p align="center">Full-stack developer and Laravel expert.</p>
 </p>
